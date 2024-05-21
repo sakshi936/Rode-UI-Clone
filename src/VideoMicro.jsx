@@ -1,4 +1,4 @@
-export default function Image5() {
+export default function VideoMicro() {
   return (
     <>
       <div

@@ -1,4 +1,4 @@
-export default function Image3() {
+export default function StudioMic() {
   return (
     <>
       <div

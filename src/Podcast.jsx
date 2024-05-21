@@ -1,4 +1,4 @@
-export default function Image1() {
+export default function Podcast() {
   return (
     <>
       {/* prodcast range */}

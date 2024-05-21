@@ -1,4 +1,4 @@
-export default function Image2() {
+export default function WirelessMic() {
   return (
     <>
       <div

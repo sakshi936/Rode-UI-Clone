@@ -1,4 +1,4 @@
-export default function Image4() {
+export default function DS2() {
   return (
     <>
       <div
